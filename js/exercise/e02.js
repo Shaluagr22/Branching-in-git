@@ -11,4 +11,4 @@ console.timeEnd('Your code took time');
 // console.assert(34>189,'age>189 is not possible');
 console.error('this is an error');
 // single line comment --> ctrl / (this line will be not execute)
-// multiline comment --> /* this is multiline comment */
+// multiline comment --> /* this is multiline comment  */
